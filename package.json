@@ -1,0 +1,15 @@
+{
+  "name": "lesshint-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "lesshint": "^2.0.0-rc"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/lesshint fail.less"
+  },
+  "author": "Benjamin Van Ryseghem <benjamin.vanryseghem@gmail.com> (https://benjamin.vanryseghem.com/)",
+  "license": "MIT"
+}
